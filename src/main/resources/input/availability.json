@@ -1,0 +1,182 @@
+[
+  {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "price": 10,
+    "available_amount": 120
+  },
+  {
+    "seller_id": "43245-sr",
+    "product_id": "35345-p",
+    "price": 1150,
+    "available_amount": 15
+  },
+  {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "price": 5,
+    "available_amount": 200
+  },
+  {
+    "seller_id": "43245-sr",
+    "product_id": "83495-p",
+    "price": 7,
+    "available_amount": 180
+  },
+  {
+    "seller_id": "43245-sr",
+    "product_id": "18947-p",
+    "price": 220,
+    "available_amount": 50
+  },
+  {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "price": 750,
+    "available_amount": 20
+  },
+  {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "price": 8,
+    "available_amount": 100
+  },
+  {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "price": 999,
+    "available_amount": 5
+  },
+  {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "price": 7,
+    "available_amount": 170
+  },
+  {
+    "seller_id": "78762-sr",
+    "product_id": "83495-p",
+    "price": 8,
+    "available_amount": 145
+  },
+  {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "price": 350,
+    "available_amount": 30
+  },
+  {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "price": 860,
+    "available_amount": 30
+  },
+  {
+    "seller_id": "22945-sr",
+    "product_id": "53484-p",
+    "price": 20,
+    "available_amount": 180
+  },
+  {
+    "seller_id": "22945-sr",
+    "product_id": "35345-p",
+    "price": 990,
+    "available_amount": 5
+  },
+  {
+    "seller_id": "22945-sr",
+    "product_id": "66978-p",
+    "price": 15,
+    "available_amount": 20
+  },
+  {
+    "seller_id": "22945-sr",
+    "product_id": "83495-p",
+    "price": 19,
+    "available_amount": 80
+  },
+  {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "price": 156,
+    "available_amount": 24
+  },
+  {
+    "seller_id": "22945-sr",
+    "product_id": "23565-p",
+    "price": 560,
+    "available_amount": 25
+  },
+  {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "price": 15,
+    "available_amount": 125
+  },
+  {
+    "seller_id": "96937-sr",
+    "product_id": "35345-p",
+    "price": 980,
+    "available_amount": 8
+  },
+  {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "price": 10,
+    "available_amount": 27
+  },
+  {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "price": 17,
+    "available_amount": 19
+  },
+  {
+    "seller_id": "96937-sr",
+    "product_id": "18947-p",
+    "price": 531,
+    "available_amount": 45
+  },
+  {
+    "seller_id": "96937-sr",
+    "product_id": "23565-p",
+    "price": 899,
+    "available_amount": 19
+  },
+  {
+    "seller_id": "43457-sr",
+    "product_id": "53484-p",
+    "price": 25,
+    "available_amount": 198
+  },
+  {
+    "seller_id": "43457-sr",
+    "product_id": "35345-p",
+    "price": 1900,
+    "available_amount": 16
+  },
+  {
+    "seller_id": "43457-sr",
+    "product_id": "66978-p",
+    "price": 14,
+    "available_amount": 56
+  },
+  {
+    "seller_id": "43457-sr",
+    "product_id": "83495-p",
+    "price": 10,
+    "available_amount": 20
+  },
+  {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "price": 650,
+    "available_amount": 20
+  },
+  {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "price": 1099,
+    "available_amount": 24
+  }
+]

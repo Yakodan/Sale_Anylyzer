@@ -1,0 +1,1940 @@
+{
+  "10145-s": {
+    "seller_id": "96937-sr",
+    "product_id": "18947-p",
+    "sale_amount": 9,
+    "date": "1.11.2023"
+  },
+  "10841-s": {
+    "seller_id": "43245-sr",
+    "product_id": "83495-p",
+    "sale_amount": 10,
+    "date": "19.11.2023"
+  },
+  "11352-s": {
+    "seller_id": "22945-sr",
+    "product_id": "53484-p",
+    "sale_amount": 14,
+    "date": "7.11.2023"
+  },
+  "11683-s": {
+    "seller_id": "96937-sr",
+    "product_id": "23565-p",
+    "sale_amount": 1,
+    "date": "23.11.2023"
+  },
+  "11685-s": {
+    "seller_id": "43457-sr",
+    "product_id": "53484-p",
+    "sale_amount": 3,
+    "date": "10.11.2023"
+  },
+  "11821-s": {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "sale_amount": 8,
+    "date": "2.11.2023"
+  },
+  "12002-s": {
+    "seller_id": "78762-sr",
+    "product_id": "83495-p",
+    "sale_amount": 13,
+    "date": "14.11.2023"
+  },
+  "12087-s": {
+    "seller_id": "22945-sr",
+    "product_id": "23565-p",
+    "sale_amount": 5,
+    "date": "9.11.2023"
+  },
+  "12129-s": {
+    "seller_id": "43245-sr",
+    "product_id": "35345-p",
+    "sale_amount": 13,
+    "date": "21.11.2023"
+  },
+  "12153-s": {
+    "seller_id": "96937-sr",
+    "product_id": "35345-p",
+    "sale_amount": 8,
+    "date": "25.11.2023"
+  },
+  "12591-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 13,
+    "date": "27.11.2023"
+  },
+  "12847-s": {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "sale_amount": 3,
+    "date": "8.11.2023"
+  },
+  "12966-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 11,
+    "date": "6.11.2023"
+  },
+  "13039-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 11,
+    "date": "22.11.2023"
+  },
+  "13105-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 12,
+    "date": "26.11.2023"
+  },
+  "13193-s": {
+    "seller_id": "43457-sr",
+    "product_id": "66978-p",
+    "sale_amount": 13,
+    "date": "17.11.2023"
+  },
+  "13255-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 1,
+    "date": "27.11.2023"
+  },
+  "13308-s": {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "sale_amount": 8,
+    "date": "18.11.2023"
+  },
+  "13338-s": {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "sale_amount": 2,
+    "date": "20.11.2023"
+  },
+  "13340-s": {
+    "seller_id": "96937-sr",
+    "product_id": "23565-p",
+    "sale_amount": 6,
+    "date": "3.11.2023"
+  },
+  "13457-s": {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "sale_amount": 6,
+    "date": "6.11.2023"
+  },
+  "13685-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 1,
+    "date": "12.11.2023"
+  },
+  "14568-s": {
+    "seller_id": "43457-sr",
+    "product_id": "35345-p",
+    "sale_amount": 3,
+    "date": "20.11.2023"
+  },
+  "14593-s": {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "sale_amount": 10,
+    "date": "30.11.2023"
+  },
+  "14752-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 5,
+    "date": "11.11.2023"
+  },
+  "14819-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 3,
+    "date": "15.11.2023"
+  },
+  "15676-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 8,
+    "date": "3.11.2023"
+  },
+  "15845-s": {
+    "seller_id": "78762-sr",
+    "product_id": "83495-p",
+    "sale_amount": 5,
+    "date": "26.11.2023"
+  },
+  "15867-s": {
+    "seller_id": "43245-sr",
+    "product_id": "83495-p",
+    "sale_amount": 15,
+    "date": "25.11.2023"
+  },
+  "15977-s": {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "sale_amount": 3,
+    "date": "17.11.2023"
+  },
+  "16383-s": {
+    "seller_id": "96937-sr",
+    "product_id": "23565-p",
+    "sale_amount": 15,
+    "date": "13.11.2023"
+  },
+  "17286-s": {
+    "seller_id": "22945-sr",
+    "product_id": "53484-p",
+    "sale_amount": 10,
+    "date": "19.11.2023"
+  },
+  "17485-s": {
+    "seller_id": "43457-sr",
+    "product_id": "83495-p",
+    "sale_amount": 1,
+    "date": "5.11.2023"
+  },
+  "17778-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 6,
+    "date": "16.11.2023"
+  },
+  "17861-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 10,
+    "date": "10.11.2023"
+  },
+  "17899-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 4,
+    "date": "1.11.2023"
+  },
+  "18127-s": {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "sale_amount": 10,
+    "date": "24.11.2023"
+  },
+  "18654-s": {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "sale_amount": 6,
+    "date": "13.11.2023"
+  },
+  "18930-s": {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "sale_amount": 11,
+    "date": "9.11.2023"
+  },
+  "19085-s": {
+    "seller_id": "43457-sr",
+    "product_id": "83495-p",
+    "sale_amount": 9,
+    "date": "26.11.2023"
+  },
+  "19622-s": {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "sale_amount": 2,
+    "date": "7.11.2023"
+  },
+  "19998-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 13,
+    "date": "27.11.2023"
+  },
+  "20217-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 14,
+    "date": "19.11.2023"
+  },
+  "20468-s": {
+    "seller_id": "22945-sr",
+    "product_id": "83495-p",
+    "sale_amount": 5,
+    "date": "10.11.2023"
+  },
+  "20501-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 1,
+    "date": "23.11.2023"
+  },
+  "20650-s": {
+    "seller_id": "22945-sr",
+    "product_id": "23565-p",
+    "sale_amount": 6,
+    "date": "9.11.2023"
+  },
+  "20654-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 10,
+    "date": "30.11.2023"
+  },
+  "20677-s": {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "sale_amount": 9,
+    "date": "18.11.2023"
+  },
+  "20875-s": {
+    "seller_id": "22945-sr",
+    "product_id": "66978-p",
+    "sale_amount": 9,
+    "date": "21.11.2023"
+  },
+  "21260-s": {
+    "seller_id": "22945-sr",
+    "product_id": "66978-p",
+    "sale_amount": 13,
+    "date": "4.11.2023"
+  },
+  "21267-s": {
+    "seller_id": "43457-sr",
+    "product_id": "83495-p",
+    "sale_amount": 6,
+    "date": "11.11.2023"
+  },
+  "21354-s": {
+    "seller_id": "43457-sr",
+    "product_id": "83495-p",
+    "sale_amount": 5,
+    "date": "1.11.2023"
+  },
+  "21400-s": {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "sale_amount": 10,
+    "date": "10.11.2023"
+  },
+  "21734-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 1,
+    "date": "21.11.2023"
+  },
+  "22229-s": {
+    "seller_id": "43457-sr",
+    "product_id": "53484-p",
+    "sale_amount": 12,
+    "date": "21.11.2023"
+  },
+  "22372-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 8,
+    "date": "28.11.2023"
+  },
+  "22793-s": {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "sale_amount": 9,
+    "date": "8.11.2023"
+  },
+  "23314-s": {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "sale_amount": 8,
+    "date": "16.11.2023"
+  },
+  "23655-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 5,
+    "date": "1.11.2023"
+  },
+  "24425-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 12,
+    "date": "8.11.2023"
+  },
+  "24438-s": {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "sale_amount": 4,
+    "date": "6.11.2023"
+  },
+  "24930-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 15,
+    "date": "21.11.2023"
+  },
+  "25190-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 10,
+    "date": "25.11.2023"
+  },
+  "25256-s": {
+    "seller_id": "96937-sr",
+    "product_id": "35345-p",
+    "sale_amount": 1,
+    "date": "24.11.2023"
+  },
+  "25553-s": {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "sale_amount": 9,
+    "date": "4.11.2023"
+  },
+  "25800-s": {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "sale_amount": 7,
+    "date": "1.11.2023"
+  },
+  "25845-s": {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "sale_amount": 5,
+    "date": "7.11.2023"
+  },
+  "25976-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 9,
+    "date": "29.11.2023"
+  },
+  "26322-s": {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "sale_amount": 11,
+    "date": "25.11.2023"
+  },
+  "26368-s": {
+    "seller_id": "22945-sr",
+    "product_id": "23565-p",
+    "sale_amount": 6,
+    "date": "1.11.2023"
+  },
+  "26433-s": {
+    "seller_id": "78762-sr",
+    "product_id": "83495-p",
+    "sale_amount": 9,
+    "date": "27.11.2023"
+  },
+  "27368-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 3,
+    "date": "7.11.2023"
+  },
+  "27988-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 15,
+    "date": "14.11.2023"
+  },
+  "28611-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 7,
+    "date": "18.11.2023"
+  },
+  "29068-s": {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "sale_amount": 4,
+    "date": "25.11.2023"
+  },
+  "29097-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 8,
+    "date": "9.11.2023"
+  },
+  "29395-s": {
+    "seller_id": "22945-sr",
+    "product_id": "23565-p",
+    "sale_amount": 12,
+    "date": "28.11.2023"
+  },
+  "29483-s": {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "sale_amount": 2,
+    "date": "19.11.2023"
+  },
+  "29592-s": {
+    "seller_id": "43457-sr",
+    "product_id": "66978-p",
+    "sale_amount": 9,
+    "date": "19.11.2023"
+  },
+  "29673-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 5,
+    "date": "23.11.2023"
+  },
+  "29799-s": {
+    "seller_id": "43245-sr",
+    "product_id": "35345-p",
+    "sale_amount": 8,
+    "date": "26.11.2023"
+  },
+  "29848-s": {
+    "seller_id": "96937-sr",
+    "product_id": "35345-p",
+    "sale_amount": 13,
+    "date": "8.11.2023"
+  },
+  "29915-s": {
+    "seller_id": "96937-sr",
+    "product_id": "35345-p",
+    "sale_amount": 11,
+    "date": "9.11.2023"
+  },
+  "30392-s": {
+    "seller_id": "96937-sr",
+    "product_id": "18947-p",
+    "sale_amount": 11,
+    "date": "21.11.2023"
+  },
+  "30431-s": {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "sale_amount": 15,
+    "date": "12.11.2023"
+  },
+  "30469-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 5,
+    "date": "20.11.2023"
+  },
+  "30512-s": {
+    "seller_id": "43457-sr",
+    "product_id": "53484-p",
+    "sale_amount": 13,
+    "date": "25.11.2023"
+  },
+  "30550-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 13,
+    "date": "24.11.2023"
+  },
+  "30908-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 15,
+    "date": "24.11.2023"
+  },
+  "30934-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 5,
+    "date": "10.11.2023"
+  },
+  "31633-s": {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "sale_amount": 8,
+    "date": "6.11.2023"
+  },
+  "32057-s": {
+    "seller_id": "43245-sr",
+    "product_id": "18947-p",
+    "sale_amount": 13,
+    "date": "14.11.2023"
+  },
+  "32437-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 8,
+    "date": "22.11.2023"
+  },
+  "32506-s": {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "sale_amount": 4,
+    "date": "27.11.2023"
+  },
+  "32741-s": {
+    "seller_id": "43245-sr",
+    "product_id": "35345-p",
+    "sale_amount": 7,
+    "date": "12.11.2023"
+  },
+  "33238-s": {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "sale_amount": 1,
+    "date": "5.11.2023"
+  },
+  "33242-s": {
+    "seller_id": "22945-sr",
+    "product_id": "35345-p",
+    "sale_amount": 8,
+    "date": "28.11.2023"
+  },
+  "34166-s": {
+    "seller_id": "43457-sr",
+    "product_id": "66978-p",
+    "sale_amount": 10,
+    "date": "1.11.2023"
+  },
+  "34786-s": {
+    "seller_id": "96937-sr",
+    "product_id": "18947-p",
+    "sale_amount": 3,
+    "date": "10.11.2023"
+  },
+  "34927-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 3,
+    "date": "23.11.2023"
+  },
+  "35021-s": {
+    "seller_id": "22945-sr",
+    "product_id": "66978-p",
+    "sale_amount": 10,
+    "date": "13.11.2023"
+  },
+  "35368-s": {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "sale_amount": 14,
+    "date": "4.11.2023"
+  },
+  "35691-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 8,
+    "date": "29.11.2023"
+  },
+  "35706-s": {
+    "seller_id": "43457-sr",
+    "product_id": "35345-p",
+    "sale_amount": 11,
+    "date": "10.11.2023"
+  },
+  "36003-s": {
+    "seller_id": "43245-sr",
+    "product_id": "35345-p",
+    "sale_amount": 10,
+    "date": "26.11.2023"
+  },
+  "36622-s": {
+    "seller_id": "43457-sr",
+    "product_id": "53484-p",
+    "sale_amount": 3,
+    "date": "29.11.2023"
+  },
+  "36685-s": {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "sale_amount": 10,
+    "date": "18.11.2023"
+  },
+  "36732-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 6,
+    "date": "16.11.2023"
+  },
+  "36914-s": {
+    "seller_id": "22945-sr",
+    "product_id": "83495-p",
+    "sale_amount": 2,
+    "date": "21.11.2023"
+  },
+  "37486-s": {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "sale_amount": 1,
+    "date": "21.11.2023"
+  },
+  "37585-s": {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "sale_amount": 3,
+    "date": "17.11.2023"
+  },
+  "37993-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 8,
+    "date": "4.11.2023"
+  },
+  "38234-s": {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "sale_amount": 3,
+    "date": "18.11.2023"
+  },
+  "38687-s": {
+    "seller_id": "43457-sr",
+    "product_id": "83495-p",
+    "sale_amount": 13,
+    "date": "2.11.2023"
+  },
+  "38699-s": {
+    "seller_id": "22945-sr",
+    "product_id": "53484-p",
+    "sale_amount": 8,
+    "date": "12.11.2023"
+  },
+  "38745-s": {
+    "seller_id": "22945-sr",
+    "product_id": "53484-p",
+    "sale_amount": 12,
+    "date": "19.11.2023"
+  },
+  "38978-s": {
+    "seller_id": "43457-sr",
+    "product_id": "35345-p",
+    "sale_amount": 13,
+    "date": "12.11.2023"
+  },
+  "38985-s": {
+    "seller_id": "43245-sr",
+    "product_id": "35345-p",
+    "sale_amount": 5,
+    "date": "14.11.2023"
+  },
+  "39303-s": {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "sale_amount": 12,
+    "date": "25.11.2023"
+  },
+  "39636-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 10,
+    "date": "26.11.2023"
+  },
+  "40211-s": {
+    "seller_id": "43245-sr",
+    "product_id": "83495-p",
+    "sale_amount": 13,
+    "date": "17.11.2023"
+  },
+  "40656-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 5,
+    "date": "23.11.2023"
+  },
+  "42077-s": {
+    "seller_id": "96937-sr",
+    "product_id": "18947-p",
+    "sale_amount": 3,
+    "date": "10.11.2023"
+  },
+  "42379-s": {
+    "seller_id": "43457-sr",
+    "product_id": "83495-p",
+    "sale_amount": 4,
+    "date": "21.11.2023"
+  },
+  "43007-s": {
+    "seller_id": "43457-sr",
+    "product_id": "83495-p",
+    "sale_amount": 12,
+    "date": "6.11.2023"
+  },
+  "43182-s": {
+    "seller_id": "22945-sr",
+    "product_id": "53484-p",
+    "sale_amount": 5,
+    "date": "21.11.2023"
+  },
+  "43444-s": {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "sale_amount": 14,
+    "date": "15.11.2023"
+  },
+  "43628-s": {
+    "seller_id": "43457-sr",
+    "product_id": "83495-p",
+    "sale_amount": 7,
+    "date": "5.11.2023"
+  },
+  "43997-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 12,
+    "date": "23.11.2023"
+  },
+  "44228-s": {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "sale_amount": 12,
+    "date": "22.11.2023"
+  },
+  "44643-s": {
+    "seller_id": "43457-sr",
+    "product_id": "35345-p",
+    "sale_amount": 6,
+    "date": "20.11.2023"
+  },
+  "45020-s": {
+    "seller_id": "43457-sr",
+    "product_id": "66978-p",
+    "sale_amount": 10,
+    "date": "2.11.2023"
+  },
+  "45089-s": {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "sale_amount": 14,
+    "date": "29.11.2023"
+  },
+  "45114-s": {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "sale_amount": 9,
+    "date": "9.11.2023"
+  },
+  "45544-s": {
+    "seller_id": "43457-sr",
+    "product_id": "66978-p",
+    "sale_amount": 14,
+    "date": "2.11.2023"
+  },
+  "45687-s": {
+    "seller_id": "43245-sr",
+    "product_id": "18947-p",
+    "sale_amount": 9,
+    "date": "30.11.2023"
+  },
+  "45800-s": {
+    "seller_id": "43245-sr",
+    "product_id": "35345-p",
+    "sale_amount": 6,
+    "date": "15.11.2023"
+  },
+  "45819-s": {
+    "seller_id": "78762-sr",
+    "product_id": "83495-p",
+    "sale_amount": 7,
+    "date": "22.11.2023"
+  },
+  "45899-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 12,
+    "date": "24.11.2023"
+  },
+  "46309-s": {
+    "seller_id": "43457-sr",
+    "product_id": "53484-p",
+    "sale_amount": 10,
+    "date": "3.11.2023"
+  },
+  "46637-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 14,
+    "date": "21.11.2023"
+  },
+  "46748-s": {
+    "seller_id": "43245-sr",
+    "product_id": "83495-p",
+    "sale_amount": 4,
+    "date": "27.11.2023"
+  },
+  "46760-s": {
+    "seller_id": "22945-sr",
+    "product_id": "23565-p",
+    "sale_amount": 14,
+    "date": "27.11.2023"
+  },
+  "46962-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 11,
+    "date": "24.11.2023"
+  },
+  "47167-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 14,
+    "date": "14.11.2023"
+  },
+  "48496-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 9,
+    "date": "28.11.2023"
+  },
+  "48637-s": {
+    "seller_id": "96937-sr",
+    "product_id": "23565-p",
+    "sale_amount": 8,
+    "date": "14.11.2023"
+  },
+  "48677-s": {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "sale_amount": 5,
+    "date": "18.11.2023"
+  },
+  "48686-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 10,
+    "date": "22.11.2023"
+  },
+  "48703-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 3,
+    "date": "12.11.2023"
+  },
+  "49144-s": {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "sale_amount": 6,
+    "date": "14.11.2023"
+  },
+  "49401-s": {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "sale_amount": 6,
+    "date": "1.11.2023"
+  },
+  "49450-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 3,
+    "date": "21.11.2023"
+  },
+  "49772-s": {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "sale_amount": 9,
+    "date": "1.11.2023"
+  },
+  "50328-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 8,
+    "date": "3.11.2023"
+  },
+  "50371-s": {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "sale_amount": 11,
+    "date": "1.11.2023"
+  },
+  "50845-s": {
+    "seller_id": "43245-sr",
+    "product_id": "35345-p",
+    "sale_amount": 12,
+    "date": "16.11.2023"
+  },
+  "51022-s": {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "sale_amount": 8,
+    "date": "8.11.2023"
+  },
+  "51128-s": {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "sale_amount": 15,
+    "date": "6.11.2023"
+  },
+  "51156-s": {
+    "seller_id": "22945-sr",
+    "product_id": "35345-p",
+    "sale_amount": 13,
+    "date": "9.11.2023"
+  },
+  "51301-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 4,
+    "date": "15.11.2023"
+  },
+  "51366-s": {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "sale_amount": 4,
+    "date": "12.11.2023"
+  },
+  "51643-s": {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "sale_amount": 10,
+    "date": "29.11.2023"
+  },
+  "52219-s": {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "sale_amount": 11,
+    "date": "23.11.2023"
+  },
+  "52426-s": {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "sale_amount": 13,
+    "date": "16.11.2023"
+  },
+  "52464-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 11,
+    "date": "22.11.2023"
+  },
+  "52492-s": {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "sale_amount": 8,
+    "date": "28.11.2023"
+  },
+  "52686-s": {
+    "seller_id": "43457-sr",
+    "product_id": "35345-p",
+    "sale_amount": 8,
+    "date": "4.11.2023"
+  },
+  "53592-s": {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "sale_amount": 6,
+    "date": "9.11.2023"
+  },
+  "54107-s": {
+    "seller_id": "43245-sr",
+    "product_id": "18947-p",
+    "sale_amount": 1,
+    "date": "1.11.2023"
+  },
+  "54771-s": {
+    "seller_id": "96937-sr",
+    "product_id": "23565-p",
+    "sale_amount": 7,
+    "date": "25.11.2023"
+  },
+  "54926-s": {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "sale_amount": 13,
+    "date": "9.11.2023"
+  },
+  "54943-s": {
+    "seller_id": "78762-sr",
+    "product_id": "83495-p",
+    "sale_amount": 14,
+    "date": "9.11.2023"
+  },
+  "55352-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 11,
+    "date": "23.11.2023"
+  },
+  "55612-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 9,
+    "date": "4.11.2023"
+  },
+  "55898-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 1,
+    "date": "21.11.2023"
+  },
+  "55971-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 3,
+    "date": "15.11.2023"
+  },
+  "56164-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 2,
+    "date": "6.11.2023"
+  },
+  "56244-s": {
+    "seller_id": "22945-sr",
+    "product_id": "83495-p",
+    "sale_amount": 9,
+    "date": "13.11.2023"
+  },
+  "57099-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 13,
+    "date": "28.11.2023"
+  },
+  "57590-s": {
+    "seller_id": "96937-sr",
+    "product_id": "18947-p",
+    "sale_amount": 15,
+    "date": "17.11.2023"
+  },
+  "58085-s": {
+    "seller_id": "22945-sr",
+    "product_id": "35345-p",
+    "sale_amount": 14,
+    "date": "23.11.2023"
+  },
+  "58101-s": {
+    "seller_id": "43457-sr",
+    "product_id": "83495-p",
+    "sale_amount": 5,
+    "date": "30.11.2023"
+  },
+  "58294-s": {
+    "seller_id": "43457-sr",
+    "product_id": "35345-p",
+    "sale_amount": 9,
+    "date": "9.11.2023"
+  },
+  "58646-s": {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "sale_amount": 12,
+    "date": "21.11.2023"
+  },
+  "59090-s": {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "sale_amount": 7,
+    "date": "8.11.2023"
+  },
+  "59209-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 6,
+    "date": "3.11.2023"
+  },
+  "59249-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 4,
+    "date": "3.11.2023"
+  },
+  "60291-s": {
+    "seller_id": "43457-sr",
+    "product_id": "53484-p",
+    "sale_amount": 13,
+    "date": "24.11.2023"
+  },
+  "60758-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 8,
+    "date": "17.11.2023"
+  },
+  "61071-s": {
+    "seller_id": "22945-sr",
+    "product_id": "83495-p",
+    "sale_amount": 15,
+    "date": "13.11.2023"
+  },
+  "61159-s": {
+    "seller_id": "22945-sr",
+    "product_id": "83495-p",
+    "sale_amount": 5,
+    "date": "25.11.2023"
+  },
+  "61406-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 14,
+    "date": "6.11.2023"
+  },
+  "62083-s": {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "sale_amount": 6,
+    "date": "25.11.2023"
+  },
+  "62188-s": {
+    "seller_id": "43457-sr",
+    "product_id": "53484-p",
+    "sale_amount": 11,
+    "date": "5.11.2023"
+  },
+  "62420-s": {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "sale_amount": 8,
+    "date": "24.11.2023"
+  },
+  "62520-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 8,
+    "date": "14.11.2023"
+  },
+  "62644-s": {
+    "seller_id": "96937-sr",
+    "product_id": "18947-p",
+    "sale_amount": 1,
+    "date": "2.11.2023"
+  },
+  "63282-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 1,
+    "date": "13.11.2023"
+  },
+  "63287-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 2,
+    "date": "30.11.2023"
+  },
+  "63395-s": {
+    "seller_id": "43245-sr",
+    "product_id": "35345-p",
+    "sale_amount": 11,
+    "date": "1.11.2023"
+  },
+  "63523-s": {
+    "seller_id": "43457-sr",
+    "product_id": "66978-p",
+    "sale_amount": 10,
+    "date": "30.11.2023"
+  },
+  "63541-s": {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "sale_amount": 10,
+    "date": "8.11.2023"
+  },
+  "64420-s": {
+    "seller_id": "96937-sr",
+    "product_id": "35345-p",
+    "sale_amount": 2,
+    "date": "6.11.2023"
+  },
+  "64745-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 15,
+    "date": "3.11.2023"
+  },
+  "64967-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 9,
+    "date": "23.11.2023"
+  },
+  "66254-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 7,
+    "date": "28.11.2023"
+  },
+  "66807-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 7,
+    "date": "30.11.2023"
+  },
+  "67298-s": {
+    "seller_id": "43457-sr",
+    "product_id": "35345-p",
+    "sale_amount": 14,
+    "date": "6.11.2023"
+  },
+  "67883-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 1,
+    "date": "24.11.2023"
+  },
+  "68809-s": {
+    "seller_id": "43457-sr",
+    "product_id": "66978-p",
+    "sale_amount": 4,
+    "date": "20.11.2023"
+  },
+  "69177-s": {
+    "seller_id": "43457-sr",
+    "product_id": "66978-p",
+    "sale_amount": 2,
+    "date": "9.11.2023"
+  },
+  "69539-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 11,
+    "date": "9.11.2023"
+  },
+  "69641-s": {
+    "seller_id": "22945-sr",
+    "product_id": "83495-p",
+    "sale_amount": 1,
+    "date": "28.11.2023"
+  },
+  "69766-s": {
+    "seller_id": "96937-sr",
+    "product_id": "35345-p",
+    "sale_amount": 6,
+    "date": "1.11.2023"
+  },
+  "69786-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 2,
+    "date": "18.11.2023"
+  },
+  "70177-s": {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "sale_amount": 14,
+    "date": "2.11.2023"
+  },
+  "70201-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 15,
+    "date": "9.11.2023"
+  },
+  "70521-s": {
+    "seller_id": "43457-sr",
+    "product_id": "83495-p",
+    "sale_amount": 12,
+    "date": "9.11.2023"
+  },
+  "70677-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 10,
+    "date": "4.11.2023"
+  },
+  "71154-s": {
+    "seller_id": "43245-sr",
+    "product_id": "35345-p",
+    "sale_amount": 15,
+    "date": "25.11.2023"
+  },
+  "71557-s": {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "sale_amount": 10,
+    "date": "28.11.2023"
+  },
+  "71679-s": {
+    "seller_id": "22945-sr",
+    "product_id": "35345-p",
+    "sale_amount": 9,
+    "date": "1.11.2023"
+  },
+  "72216-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 9,
+    "date": "5.11.2023"
+  },
+  "72513-s": {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "sale_amount": 14,
+    "date": "16.11.2023"
+  },
+  "72753-s": {
+    "seller_id": "43457-sr",
+    "product_id": "35345-p",
+    "sale_amount": 8,
+    "date": "20.11.2023"
+  },
+  "72829-s": {
+    "seller_id": "22945-sr",
+    "product_id": "23565-p",
+    "sale_amount": 6,
+    "date": "24.11.2023"
+  },
+  "73495-s": {
+    "seller_id": "22945-sr",
+    "product_id": "66978-p",
+    "sale_amount": 13,
+    "date": "22.11.2023"
+  },
+  "73560-s": {
+    "seller_id": "78762-sr",
+    "product_id": "83495-p",
+    "sale_amount": 15,
+    "date": "25.11.2023"
+  },
+  "73795-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 14,
+    "date": "12.11.2023"
+  },
+  "73942-s": {
+    "seller_id": "43245-sr",
+    "product_id": "83495-p",
+    "sale_amount": 8,
+    "date": "15.11.2023"
+  },
+  "74112-s": {
+    "seller_id": "22945-sr",
+    "product_id": "23565-p",
+    "sale_amount": 13,
+    "date": "26.11.2023"
+  },
+  "74438-s": {
+    "seller_id": "43457-sr",
+    "product_id": "53484-p",
+    "sale_amount": 8,
+    "date": "21.11.2023"
+  },
+  "74542-s": {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "sale_amount": 10,
+    "date": "30.11.2023"
+  },
+  "74617-s": {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "sale_amount": 15,
+    "date": "12.11.2023"
+  },
+  "74661-s": {
+    "seller_id": "43245-sr",
+    "product_id": "35345-p",
+    "sale_amount": 15,
+    "date": "2.11.2023"
+  },
+  "74713-s": {
+    "seller_id": "22945-sr",
+    "product_id": "83495-p",
+    "sale_amount": 1,
+    "date": "15.11.2023"
+  },
+  "74827-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 7,
+    "date": "29.11.2023"
+  },
+  "74863-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 5,
+    "date": "24.11.2023"
+  },
+  "74871-s": {
+    "seller_id": "96937-sr",
+    "product_id": "35345-p",
+    "sale_amount": 15,
+    "date": "18.11.2023"
+  },
+  "75722-s": {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "sale_amount": 2,
+    "date": "20.11.2023"
+  },
+  "75889-s": {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "sale_amount": 12,
+    "date": "2.11.2023"
+  },
+  "76124-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 2,
+    "date": "26.11.2023"
+  },
+  "76392-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 9,
+    "date": "13.11.2023"
+  },
+  "76908-s": {
+    "seller_id": "96937-sr",
+    "product_id": "23565-p",
+    "sale_amount": 1,
+    "date": "17.11.2023"
+  },
+  "77102-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 1,
+    "date": "30.11.2023"
+  },
+  "77330-s": {
+    "seller_id": "96937-sr",
+    "product_id": "18947-p",
+    "sale_amount": 4,
+    "date": "14.11.2023"
+  },
+  "77806-s": {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "sale_amount": 8,
+    "date": "26.11.2023"
+  },
+  "77865-s": {
+    "seller_id": "22945-sr",
+    "product_id": "35345-p",
+    "sale_amount": 12,
+    "date": "30.11.2023"
+  },
+  "78634-s": {
+    "seller_id": "43457-sr",
+    "product_id": "66978-p",
+    "sale_amount": 1,
+    "date": "18.11.2023"
+  },
+  "78902-s": {
+    "seller_id": "22945-sr",
+    "product_id": "53484-p",
+    "sale_amount": 15,
+    "date": "9.11.2023"
+  },
+  "79300-s": {
+    "seller_id": "43245-sr",
+    "product_id": "83495-p",
+    "sale_amount": 2,
+    "date": "23.11.2023"
+  },
+  "79472-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 9,
+    "date": "18.11.2023"
+  },
+  "80042-s": {
+    "seller_id": "43245-sr",
+    "product_id": "18947-p",
+    "sale_amount": 15,
+    "date": "2.11.2023"
+  },
+  "80256-s": {
+    "seller_id": "78762-sr",
+    "product_id": "83495-p",
+    "sale_amount": 15,
+    "date": "9.11.2023"
+  },
+  "80846-s": {
+    "seller_id": "43245-sr",
+    "product_id": "23565-p",
+    "sale_amount": 7,
+    "date": "6.11.2023"
+  },
+  "81324-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 7,
+    "date": "20.11.2023"
+  },
+  "81867-s": {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "sale_amount": 10,
+    "date": "26.11.2023"
+  },
+  "81931-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 11,
+    "date": "19.11.2023"
+  },
+  "82356-s": {
+    "seller_id": "96937-sr",
+    "product_id": "35345-p",
+    "sale_amount": 13,
+    "date": "24.11.2023"
+  },
+  "82991-s": {
+    "seller_id": "43457-sr",
+    "product_id": "66978-p",
+    "sale_amount": 9,
+    "date": "15.11.2023"
+  },
+  "83413-s": {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "sale_amount": 7,
+    "date": "22.11.2023"
+  },
+  "83430-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 7,
+    "date": "19.11.2023"
+  },
+  "83596-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 11,
+    "date": "19.11.2023"
+  },
+  "84770-s": {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "sale_amount": 6,
+    "date": "15.11.2023"
+  },
+  "84929-s": {
+    "seller_id": "78762-sr",
+    "product_id": "83495-p",
+    "sale_amount": 9,
+    "date": "9.11.2023"
+  },
+  "85161-s": {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "sale_amount": 7,
+    "date": "17.11.2023"
+  },
+  "85388-s": {
+    "seller_id": "78762-sr",
+    "product_id": "53484-p",
+    "sale_amount": 6,
+    "date": "15.11.2023"
+  },
+  "85450-s": {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "sale_amount": 5,
+    "date": "3.11.2023"
+  },
+  "85873-s": {
+    "seller_id": "43457-sr",
+    "product_id": "35345-p",
+    "sale_amount": 2,
+    "date": "5.11.2023"
+  },
+  "85880-s": {
+    "seller_id": "78762-sr",
+    "product_id": "35345-p",
+    "sale_amount": 12,
+    "date": "10.11.2023"
+  },
+  "85981-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 13,
+    "date": "24.11.2023"
+  },
+  "86777-s": {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "sale_amount": 4,
+    "date": "17.11.2023"
+  },
+  "87617-s": {
+    "seller_id": "43457-sr",
+    "product_id": "23565-p",
+    "sale_amount": 6,
+    "date": "28.11.2023"
+  },
+  "87761-s": {
+    "seller_id": "22945-sr",
+    "product_id": "53484-p",
+    "sale_amount": 8,
+    "date": "19.11.2023"
+  },
+  "87793-s": {
+    "seller_id": "43245-sr",
+    "product_id": "18947-p",
+    "sale_amount": 1,
+    "date": "21.11.2023"
+  },
+  "87980-s": {
+    "seller_id": "22945-sr",
+    "product_id": "53484-p",
+    "sale_amount": 6,
+    "date": "15.11.2023"
+  },
+  "87986-s": {
+    "seller_id": "43245-sr",
+    "product_id": "66978-p",
+    "sale_amount": 12,
+    "date": "27.11.2023"
+  },
+  "88127-s": {
+    "seller_id": "78762-sr",
+    "product_id": "83495-p",
+    "sale_amount": 3,
+    "date": "15.11.2023"
+  },
+  "88227-s": {
+    "seller_id": "43245-sr",
+    "product_id": "18947-p",
+    "sale_amount": 12,
+    "date": "9.11.2023"
+  },
+  "88250-s": {
+    "seller_id": "43245-sr",
+    "product_id": "53484-p",
+    "sale_amount": 10,
+    "date": "11.11.2023"
+  },
+  "88371-s": {
+    "seller_id": "96937-sr",
+    "product_id": "83495-p",
+    "sale_amount": 5,
+    "date": "10.11.2023"
+  },
+  "88716-s": {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "sale_amount": 1,
+    "date": "20.11.2023"
+  },
+  "88960-s": {
+    "seller_id": "43245-sr",
+    "product_id": "18947-p",
+    "sale_amount": 5,
+    "date": "28.11.2023"
+  },
+  "89049-s": {
+    "seller_id": "43457-sr",
+    "product_id": "53484-p",
+    "sale_amount": 11,
+    "date": "19.11.2023"
+  },
+  "89155-s": {
+    "seller_id": "43457-sr",
+    "product_id": "18947-p",
+    "sale_amount": 6,
+    "date": "18.11.2023"
+  },
+  "89298-s": {
+    "seller_id": "22945-sr",
+    "product_id": "66978-p",
+    "sale_amount": 11,
+    "date": "24.11.2023"
+  },
+  "89315-s": {
+    "seller_id": "78762-sr",
+    "product_id": "23565-p",
+    "sale_amount": 13,
+    "date": "27.11.2023"
+  },
+  "89338-s": {
+    "seller_id": "96937-sr",
+    "product_id": "66978-p",
+    "sale_amount": 2,
+    "date": "21.11.2023"
+  },
+  "89524-s": {
+    "seller_id": "78762-sr",
+    "product_id": "66978-p",
+    "sale_amount": 9,
+    "date": "14.11.2023"
+  },
+  "89772-s": {
+    "seller_id": "78762-sr",
+    "product_id": "18947-p",
+    "sale_amount": 6,
+    "date": "29.11.2023"
+  },
+  "89783-s": {
+    "seller_id": "22945-sr",
+    "product_id": "83495-p",
+    "sale_amount": 7,
+    "date": "29.11.2023"
+  },
+  "89924-s": {
+    "seller_id": "96937-sr",
+    "product_id": "53484-p",
+    "sale_amount": 10,
+    "date": "2.11.2023"
+  },
+  "90186-s": {
+    "seller_id": "96937-sr",
+    "product_id": "35345-p",
+    "sale_amount": 9,
+    "date": "18.11.2023"
+  },
+  "90617-s": {
+    "seller_id": "78762-sr",
+    "product_id": "83495-p",
+    "sale_amount": 1,
+    "date": "8.11.2023"
+  },
+  "91698-s": {
+    "seller_id": "22945-sr",
+    "product_id": "18947-p",
+    "sale_amount": 6,
+  "date": "20.11.2023"
+  },
+  "92006-s": {
+  "seller_id": "22945-sr",
+  "product_id": "83495-p",
+  "sale_amount": 6,
+  "date": "16.11.2023"
+  },
+  "92682-s": {
+  "seller_id": "43457-sr",
+  "product_id": "53484-p",
+  "sale_amount": 4,
+  "date": "27.11.2023"
+  },
+  "92733-s": {
+  "seller_id": "43457-sr",
+  "product_id": "66978-p",
+  "sale_amount": 11,
+  "date": "13.11.2023"
+  },
+  "92785-s": {
+  "seller_id": "96937-sr",
+  "product_id": "18947-p",
+  "sale_amount": 2,
+  "date": "13.11.2023"
+  },
+  "93403-s": {
+  "seller_id": "22945-sr",
+  "product_id": "83495-p",
+  "sale_amount": 14,
+  "date": "17.11.2023"
+  },
+  "93568-s": {
+  "seller_id": "43245-sr",
+  "product_id": "35345-p",
+  "sale_amount": 4,
+  "date": "24.11.2023"
+  },
+  "93880-s": {
+  "seller_id": "78762-sr",
+  "product_id": "83495-p",
+  "sale_amount": 10,
+  "date": "4.11.2023"
+  },
+  "94171-s": {
+  "seller_id": "43245-sr",
+  "product_id": "53484-p",
+  "sale_amount": 10,
+  "date": "6.11.2023"
+  },
+  "95096-s": {
+  "seller_id": "22945-sr",
+  "product_id": "53484-p",
+  "sale_amount": 12,
+  "date": "27.11.2023"
+  },
+  "95521-s": {
+  "seller_id": "96937-sr",
+  "product_id": "23565-p",
+  "sale_amount": 8,
+  "date": "22.11.2023"
+  },
+  "96374-s": {
+  "seller_id": "43457-sr",
+  "product_id": "83495-p",
+  "sale_amount": 7,
+  "date": "5.11.2023"
+  },
+  "96517-s": {
+  "seller_id": "43245-sr",
+  "product_id": "35345-p",
+  "sale_amount": 5,
+  "date": "25.11.2023"
+  },
+  "96646-s": {
+  "seller_id": "78762-sr",
+  "product_id": "66978-p",
+  "sale_amount": 13,
+  "date": "2.11.2023"
+  },
+  "96729-s": {
+  "seller_id": "96937-sr",
+  "product_id": "66978-p",
+  "sale_amount": 14,
+  "date": "12.11.2023"
+  },
+  "96852-s": {
+  "seller_id": "78762-sr",
+  "product_id": "35345-p",
+  "sale_amount": 15,
+  "date": "3.11.2023"
+  },
+  "97189-s": {
+  "seller_id": "43245-sr",
+  "product_id": "53484-p",
+  "sale_amount": 12,
+  "date": "28.11.2023"
+  },
+  "97421-s": {
+  "seller_id": "43457-sr",
+  "product_id": "53484-p",
+  "sale_amount": 4,
+  "date": "27.11.2023"
+  },
+  "97710-s": {
+  "seller_id": "43245-sr",
+  "product_id": "53484-p",
+  "sale_amount": 12,
+  "date": "5.11.2023"
+  },
+  "97835-s": {
+  "seller_id": "43245-sr",
+  "product_id": "23565-p",
+  "sale_amount": 15,
+  "date": "14.11.2023"
+  },
+  "98284-s": {
+  "seller_id": "96937-sr",
+  "product_id": "83495-p",
+  "sale_amount": 14,
+  "date": "6.11.2023"
+  },
+  "98581-s": {
+  "seller_id": "43245-sr",
+  "product_id": "18947-p",
+  "sale_amount": 1,
+  "date": "25.11.2023"
+  },
+  "98742-s": {
+  "seller_id": "22945-sr",
+  "product_id": "35345-p",
+  "sale_amount": 3,
+  "date": "10.11.2023"
+  },
+  "98832-s": {
+  "seller_id": "43245-sr",
+  "product_id": "66978-p",
+  "sale_amount": 5,
+  "date": "28.11.2023"
+  },
+  "99317-s": {
+  "seller_id": "43457-sr",
+  "product_id": "53484-p",
+  "sale_amount": 11,
+  "date": "2.11.2023"
+  },
+  "99369-s": {
+  "seller_id": "78762-sr",
+  "product_id": "35345-p",
+  "sale_amount": 12,
+  "date": "4.11.2023"
+  },
+  "99586-s": {
+  "seller_id": "22945-sr",
+  "product_id": "35345-p",
+  "sale_amount": 2,
+  "date": "23.11.2023"
+  },
+  "99644-s": {
+  "seller_id": "78762-sr",
+  "product_id": "83495-p",
+  "sale_amount": 3,
+  "date": "23.11.2023"
+  }
+}
